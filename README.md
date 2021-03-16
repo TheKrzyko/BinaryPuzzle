@@ -2,7 +2,7 @@
 
 Binary puzzle is a logic puzzle that can be solved just by reasoning. [Online example](http://www.binarypuzzle.com/)
 
-BinaryPuzzle is an implementation of this game in C++, written as an first academic project in 2017. It has not been updated since then.
+BinaryPuzzle is an implementation of this game in C++, written as first academic project in 2017. It wasn't updated since then.
 The interface is in Polish.
 
 ### Features
